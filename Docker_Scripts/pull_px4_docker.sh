@@ -7,7 +7,5 @@
 
 source common_vars.sh
 
-docker stop $container_name
-docker rmi px4io/px4-dev-ros
 
 docker pull px4io/px4-dev-ros

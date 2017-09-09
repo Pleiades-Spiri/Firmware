@@ -14,8 +14,6 @@ echo 'container_src='$container_src
 
 xhost +
 
-docker stop $container_name
-docker rm $container_name
 
 docker run -it --privileged \
 	       -v $local_src:$container_src:rw \
