@@ -1,7 +1,7 @@
 #!/bin/bash
 # Common variables used to set a docker container with the px4 toolchain, ROS Kinetic and Ubuntu 16.04
 # 
-# Developed by Yoshua Nava (KTH Royal Institute of Technology), for Pleiades Robotics Inc.
+# Developed by Yoshua Nava (yoshua.nava.chocron@gmail.com), for Pleiades Robotics Inc.
 # 
 # 
 

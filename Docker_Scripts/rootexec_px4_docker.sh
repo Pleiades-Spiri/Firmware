@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script allows a user to exec the px4_ros docker container as root
 # 
-# Developed by Yoshua Nava (KTH Royal Institute of Technology), for Pleiades Robotics Inc.
+# Developed by Yoshua Nava (yoshua.nava.chocron@gmail.com), for Pleiades Robotics Inc.
 # 
 # 
 

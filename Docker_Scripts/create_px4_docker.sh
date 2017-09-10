@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script creates a docker container with the px4 toolchain, ROS Kinetic and Ubuntu 16.04
 # 
-# Developed by Yoshua Nava (KTH Royal Institute of Technology), for Pleiades Robotics Inc.
+# Developed by Yoshua Nava (yoshua.nava.chocron@gmail.com), for Pleiades Robotics Inc.
 # 
 # NOTE #1: You can set up the password of the user "user" employing the command "sudo passwd user", after login as root (rootexec_px4_docker.sh)
 # NOTE #2: To run ROS inside the container, you should run the following command as a regular user: echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
